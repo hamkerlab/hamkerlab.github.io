@@ -1,2 +1,3 @@
-# hamkerlab.github.io
-Website for the lab of AI - TUC
+# Website for the lab of AI - TU Chemnitz
+
+
